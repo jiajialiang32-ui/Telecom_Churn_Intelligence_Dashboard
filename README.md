@@ -13,7 +13,7 @@ The analysis is structured to provide both **Global KPI Oversight** for executiv
 
 ## Dashboard Previews
 
-*(Note to viewer: Place your high-resolution screenshots in the images/ folder)*
+
 
 ### 1. Executive Baseline & Macro KPIs
 ![Executive Overview](images/overview_screenshot.png)
